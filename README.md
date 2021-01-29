@@ -1,4 +1,4 @@
-# Habitik
+# Habitik - Habit tracker
 
 Splash screen 
 
